@@ -9,10 +9,8 @@ from sqlalchemy import create_engine, func
 #
 from flask import Flask, jsonify
 
-engine = create_engine("sqlite:///hawaii.sqlite")
-
+engine = create_engine("sqlite:///hawaii.sqlite",connect_args={'check_same_thread': False})
 Base = automap_base()
-
 Base.prepare(engine, reflect=True)
 
 Measurement = Base.classes.measurement
@@ -32,6 +30,7 @@ def welcome():
     /api/v1.0/tobs </br>
     /api/v1.0/temp/start/end </br>
     ''')
+
 @app.route("/api/v1.0/precipitation")
 def precipitation():
     prev_year = dt.date(2017, 8, 23) - dt.timedelta(days=365)
