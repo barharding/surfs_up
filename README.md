@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of the analysis is well defined.
+An entrepreneur wants to open a surf and ice cream shop in Oahu however before they set up shop they want to make sure the business will not be impacted by adverse weather.  In order to determine if the business will be sustainable year round this analysis will produce summary statistics for June and December.
 
 ## Results
 
