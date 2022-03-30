@@ -15,9 +15,6 @@ An entrepreneur wants to open a surf and ice cream shop in Oahu however before t
 
 ![June Temps](/resources/dec.png)
 
-
-- There is a bulleted list that addresses the three key differences in weather between June and December
-
 ## Summary
 
 Overall, the temperature differences between June and December are fairly inconsequential with only a 4 degree difference in average temp.  The distribution in temperatures is fairly close between the two months as well.
