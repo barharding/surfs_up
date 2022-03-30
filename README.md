@@ -8,9 +8,11 @@ An entrepreneur wants to open a surf and ice cream shop in Oahu however before t
 
 
 ***Figure 1: June Temperature Summary Statistics***
+
 ![June Temps](/resources/june.png)
 
 ***Figure 2: December Temperature Summary Statistics***
+
 ![June Temps](/resources/dec.png)
 
 
