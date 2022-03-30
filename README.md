@@ -6,6 +6,14 @@ An entrepreneur wants to open a surf and ice cream shop in Oahu however before t
 
 ## Results
 
+
+***Figure 1: June Temperature Summary Statistics***
+![June Temps](/resources/June.png)
+
+***Figure 2: December Temperature Summary Statistics***
+![June Temps](/resources/June.png)
+
+
 - There is a bulleted list that addresses the three key differences in weather between June and December
 
 ## Summary
