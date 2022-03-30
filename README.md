@@ -20,4 +20,8 @@ An entrepreneur wants to open a surf and ice cream shop in Oahu however before t
 
 ## Summary
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and Decembe
+Overall, the temperature differences between June and December are fairly inconsequential with only a 4 degree difference in average temp.  The distribution in temperatures is fairly close between the two months as well.
+
+In order to improve on this analysis generating summary statics on precipitation levels would be useful as it could be impactful.  Furthermore, windspeed and the amount of sunlight per day are other considerations.
+
+
